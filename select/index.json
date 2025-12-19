@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛する女性とのすれ違い [2024 Remaster]",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-19T13:26:04.746510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛する女性とのすれ違い",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/01_愛する女性とのすれ違い_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛する女性とのすれ違い [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/02_愛する女性とのすれ違い_[2024_Remaster]_サザンオールスターズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛する女性とのすれ違い",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_愛する女性とのすれ違い_サザンオールスターズ.txt"
+    }
+  ]
+}
